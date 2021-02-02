@@ -1,0 +1,5 @@
+export const COUNT_LOCATAIRE = "COUNT_LOCATAIRE";
+export const MESSAGE = "MESSAGE";
+export const LIST_LOCATAIRE = "LIST_LOCATAIRE";
+export const LIST_LOCATAIRE_STATUS = "LIST_LOCATAIRE_STATUS";
+export const LOADING = "LOADING";
